@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Consultar Repositorios (GitHub)</string>
+    <string name="explicacao_permissao"><![CDATA[explicacao_permissao\">A busca do repositório de um usuário depende do acesso a internet, sem essa permissão o aplicativo não consegue recuperar a informação desejada]]></string>
+    <string name="botao_fornecer">Fornecer</string>
+    <string name="botao_nao_fornecer">Agora não</string>
+    <string name="erro_api">Erro com a API</string>
 </resources>
